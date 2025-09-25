@@ -90,4 +90,5 @@ int plotpoints(int xcenter,int ycenter,int x,int y)
 
 **Result :**
 
+
 Hence implementation of the Bresenham’s  algorithm for circle using a c coding is executed successfully.
